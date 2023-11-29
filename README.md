@@ -1,6 +1,6 @@
 # 23Software5
 
-<h2>🐶MURO</h2>
+<h2>🐶 MURO</h2>
 <div style="font-size: 10px;">반려동물은  인간의 반려자로, 또 가족으로 일생을 함께하고 있다. 소중한 추억들을 함께한 반려동물들이 떠났을 때 추모하고자 하는 사람들이 늘어나며 반려동물 장례 서비스의 수요가 증가하고 있습니다.
 </div>
 <br/>
@@ -8,10 +8,47 @@
 <br/>
 <div>따라서 이러한 소비자들의 필요성에 맞추어 <b> 반려동물 장례식장 서비스를 편리하게 이용할 수 있는 플랫폼을 제공하는 것</b>을 목적으로 이 서비스를 만들게 되었습니다.</div>
 
+<br/>
 
-<h2>🌟주요기능</h2>
-<h2>🌟커밋 컨벤션</h2>
+<h2>🌟 주요기능</h2>
 
+<br/>
+
+<h2>🌟 커밋 컨벤션</h2>
+<table>
+  <tbody>
+    <tr>
+      <th>Tag Name</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>Feat</td>
+      <td>새로운 기능 추가</td>
+    </tr>
+    <tr>
+      <td>Fix</td>
+      <td>버그 수정</td>
+    </tr>
+    <tr>
+      <td>Rename</td>
+      <td>파일 혹은 폴더명 수정하거나 옮기는 작업만인 경우</td>
+    </tr>
+    <tr>
+      <td>Remove</td>
+      <td>파일을 삭제하는 작업만 수행한 경우</td>
+    </tr>
+    <tr>
+      <td>Comment</td>
+      <td>필요한 주석 추가 및 변경</td>
+    </tr>
+    <tr>
+      <td>Docs</td>
+      <td>문서 수정</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
 
 <h2>역할 및 책임</h2>
 
@@ -38,7 +75,7 @@
 </table>
 <br/>
 
-<h3>💻BE Developer</h3>
+<h3>💻 BE Developer</h3>
 
 <table>
   <tbody>
@@ -56,3 +93,29 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+<h2>📁 폴더 구조</h2>
+
+|-- 📁 node_modules <br/>
+|-- 📁 public <br/>
+|-- 📁 src <br/>
+　　|-- 📁 @components <br/>
+　　|-- 📁 @pages <br/>
+|-- 📁 api <br/>
+|-- 📁 assets <br/>
+|-- 📁 recoil <br/>
+|-- 📁 styles
+|-- App.js <br/>
+|-- App.test.js <br/>
+|-- index.css <br/>
+|-- index.js <br/>
+|-- logo.svg <br/>
+|-- reportWebVitals.js <br/>
+|-- setupTests.js <br/>
+|-- .gitignore <br/>
+|-- package-lock.json <br/>
+|-- package.json <br/>
+|-- README.md
+
