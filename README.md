@@ -80,10 +80,10 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/cherishwish"><img src="" width="100px;" alt=""/><br /><b>소원</b></a><br />
+        <a href="https://github.com/cherishwish"><img src="./image/won.png" width="100px;" alt=""/><br /><b>소원</b></a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/Soibecameit"><img src="" width="100px;" alt=""/><br /><b>홍다인</b></a><br />
+        <a href="https://github.com/Soibecameit"><img src="./image/dain.png" width="100px;" alt=""/><br /><b>홍다인</b></a><br />
       </td>
     </tr>
     <tr>
