@@ -105,13 +105,13 @@
 |-- 📁 node_modules <br/>
 |-- 📁 public <br/>
 |-- 📁 src <br/>
+　　|-- 📁 assets <br/>
 　　|-- 📁 @components <br/>
 　　|-- 📁 @pages <br/>
-|-- 📁 api <br/>
-|-- 📁 assets <br/>
-|-- 📁 recoil <br/>
-|-- 📁 styles
+　　|-- 📁 styles
+|-- Api.js <br/>
 |-- App.js <br/>
+|-- App.css <br/>
 |-- App.test.js <br/>
 |-- index.css <br/>
 |-- index.js <br/>
