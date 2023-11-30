@@ -67,7 +67,7 @@
         <a href="https://github.com/jisooooooooooo"><img src="./image/jisoo.png" width="100px;" alt=""/><br /><b>임지수</b></a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/kitechoi"><img src="" width="100px;" alt=""/><br /><b>최연</b></a><br />
+        <a href="https://github.com/kitechoi"><img src="./image/yeon.png" width="100px;" alt=""/><br /><b>최연</b></a><br />
       </td>
     </tr>
     <tr>
