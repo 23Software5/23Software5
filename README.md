@@ -127,3 +127,9 @@
 
 <h2>🎥 시연영상</h2>
 
+https://github.com/23Software5/23Software5/assets/101373627/d3990ebb-dbcc-43cf-af4d-0bf6d97c81f4
+
+
+
+
+
